@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "NIRVAR: Network Informed Restricted Vector Autoregression"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,32 +17,44 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: High-dimensional panels of time series arise in many scientific disciplines such as neuroscience, finance,
+          and macroeconomics. Often, co-movements within groups of the panel components occur. Extracting these
+          groupings from the data provides a course-grained description of the complex system in question and can in-
+          form subsequent prediction tasks. We develop a novel methodology to model such a panel as a restricted vector
+          autoregressive process, where the coefficient matrix is the weighted adjacency matrix of a stochastic block
+          model. This network time series model, which we call the Network Informed Restricted Vector Autoregres-
+          sion (NIRVAR) model, yields a coefficient matrix that has a sparse block-diagonal structure. We propose an
+          estimation procedure that embeds each panel component in a low-dimensional latent space and clusters the
+          embedded points to recover the blocks of the coefficient matrix. Crucially, the method allows for network-
+          based time series modelling when the underlying network is unobserved. We derive the bias, consistency and
+          asymptotic normality of the NIRVAR estimator. Simulation studies suggest that the NIRVAR estimated embed-
+          ded points are Gaussian distributed around the ground truth latent positions. On three applications to finance,
+          macroeconomics, and transportation systems, NIRVAR outperforms competing models in terms of prediction
+          and provides interpretable results regarding group recovery.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Combining Vector Autoregressive Models with Stochastic Blockmodels
 tags:
-- Large Language Models
+- Network Time Series
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+- name: arxiv
+  url: https://arxiv.org/abs/2407.13314
+  url_pdf: https://arxiv.org/pdf/2407.13314
+  url_code: 'https://github.com/bmartin9/NIRVAR'
+url_dataset: ''
+url_poster: Imperial_PhD_Symposiam.pdf
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_slides: UIUC_Slides_15-10-24.pdf
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -62,10 +74,8 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
