@@ -37,7 +37,7 @@ summary: Combining Vector Autoregressive Models with Stochastic Blockmodels
 tags:
 - Network Time Series
 
-featured: true
+featured: false
 
 links:
 - name: arxiv
