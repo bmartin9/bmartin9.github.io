@@ -5,9 +5,9 @@ draft: false
 authors:
   - admin
   # If you have author profile folders for coauthors, add them here (recommended):
-  # - mihai-cucuringu
-  # - alessandra-luati
-  # - francesco-sanna-passino
+  - "Mihai Cucuringu" 
+  - "Alessandra Luati"
+  - "Francesco Sanna Passino"
   #
   # If you *don’t* have profiles for coauthors, you can usually still list names
   # by creating profiles later, or keep just `admin` and put coauthors in the citation file.
