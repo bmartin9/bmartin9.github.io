@@ -4,6 +4,10 @@ draft: false
 
 authors:
   - admin
+  - "Joshua Agterberg"
+  - "Mihai Cucuringu"
+  - "Alessandra Luati" 
+  - "Francesco Sanna Passino" 
   # If you have author profile folders for coauthors, add them here (recommended):
   # - mihai-cucuringu
   # - alessandra-luati

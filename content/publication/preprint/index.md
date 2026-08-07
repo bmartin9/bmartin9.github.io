@@ -2,6 +2,9 @@
 title: "NIRVAR: Network Informed Restricted Vector Autoregression"
 authors:
 - admin
+- "Francesco Sanna Passino"
+- "Mihai Cucuringu"
+- "Alessandra Luati" 
 date: "2024-08-01"
 doi: ""
 

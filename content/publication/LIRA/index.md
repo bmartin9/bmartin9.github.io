@@ -3,7 +3,14 @@ title: "The LIRA–Ising Model: Estimating the Boundaries of Irregularly Shaped 
 draft: false
 
 authors:
+  - "Kathryn McKeough"
+  - "Vinay Kashyap"
+  - "Aneta Siemiginowska"
+  - "David van Dyk"
+  - "Shihao Yang"
+  - "Xiao-Li Meng"
   - admin
+  - "Andreas Zezas"
   # If you have author profile folders for coauthors, add them here (recommended):
   # - mihai-cucuringu
   # - alessandra-luati
