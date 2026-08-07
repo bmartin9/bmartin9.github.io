@@ -92,8 +92,10 @@ work:
     date_end: 2022-08-31
     summary: |2-
       Responsibilities include:
-      - Automating the cleaning and ingest of NHS data into a database
-      - Developing cloud infrastructure as part of the Edinburgh International Data Facility
+      # - Automating the cleaning and ingest of NHS data into a database
+      - Developed a mechanism for the automatic cleaning and ingest of NHS data into a database.
+      # - Developing cloud infrastructure as part of the Edinburgh International Data Facility
+      - Supervised an MSc Project in machine learning for quantum tomography.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
