@@ -19,18 +19,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Hedrick Math Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Imperial College London
-    url: https://www.imperial.ac.uk/mathematics/
+  - name: University of California, Los Angeles
+    url: https://www.math.ucla.edu/people/visiting/brendan
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:b.martin22@imperial.ac.uk'
+    url: 'mailto:brendan@math.ucla.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/bmartin9
@@ -45,14 +45,17 @@ interests:
   - Statistics and Machine Learning
   - Time Series
   - Networks
+  - Quantitative Finance
+  - Spectral Methods
+  - Factor Models
 
 education:
   - area: PhD Statistics and Machine Learning
     institution: Imperial College London and The University of Oxford
     date_start: 2022-10-01
-    date_end: 2026-09-30
+    date_end: 2026-06-30
     summary: |
-      Network methods for high dimensional time series. 
+      Thesis: Spectral methods for recovering latent structure in network time series. 
       Supervised by Dr Francesco Sanna Passino, Prof. Mihai Cucuringu, and Prof. Alessandra Luati.
     # button:
     #   text: 'Read Thesis'
@@ -74,6 +77,13 @@ education:
     date_end: 2020-06-30
 
 work:
+  - position: Hedrick Math Fellow 
+    company_name: UCLA
+    company_url: 'https://www.math.ucla.edu/people/visiting/brendan'
+    company_logo: ''
+    date_start: 2026-07-01
+    date_end: Present
+    
   - position: Applications Developer
     company_name: Edinburgh Parallel Computing Center
     company_url: 'https://www.epcc.ed.ac.uk/'
@@ -119,4 +129,4 @@ languages:
 
 ## About Me
 
-I am a PhD student on the Statistics and Machine Learning (StatML) Center for Doctoral Training between Imperial College London and the University of Oxford. My research interests include network based methods for high dimensional time series with applications to finance. Previously, I studied mathematical physics at the University of Edinburgh and the University of California, Berkeley. 
+I am a Hedrick Math Fellow at UCLA. My research is in statistics and machine learning with applications to quantitative finance. I was a PhD student on the Statistics and Machine Learning (StatML) Center for Doctoral Training between Imperial College London and the University of Oxford. Prior to my PhD, I studied mathematical physics at the University of Edinburgh and the University of California, Berkeley. I also worked as an Applications Developer at Edinburgh Parallel Computing Centre. 
