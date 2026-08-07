@@ -30,12 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        The theme of my PhD research is network time series. In particular I am interested in settings in which the data dimension is comparable to or greater than the number of observations. Tools from high dimensional statistics are required in this setting; for example: dimensionality reduction, factor models, sparse regression via penalisation, and network based approaches. 
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       The theme of my PhD research is network time series. In particular I am interested in settings in which the data dimension is comparable to or greater than the number of observations. Tools from high dimensional statistics are required in this setting; for example: dimensionality reduction, factor models, sparse regression via penalisation, and network based approaches. 
 
     design:
       columns: '1'
