@@ -82,7 +82,7 @@ work:
     company_url: 'https://www.math.ucla.edu/people/visiting/brendan'
     company_logo: ''
     date_start: 2026-07-01
-    date_end: Present
+    date_end: 2027-06-30
     
   - position: Applications Developer
     company_name: Edinburgh Parallel Computing Center
